@@ -1,3 +1,6 @@
+challenger.ai  国内数据挑战赛
+
+
 机器学习/数据挖掘
 
 Real World Machine Learning（现实世界中的机器学习）
