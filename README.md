@@ -200,3 +200,50 @@ Data Mining - Practical Machine Learning Tools and Techniques（数据挖掘 - �
 作者：Ian H.
 本书介绍了数据挖掘知识，适合文本处理、数据挖方面的人群
 书籍链接：http://muchong.com/bbs/logging.php?action=login
+
+
+2016 CCF大数据与计算智能大赛 开源资料整理
+
+ 2016 CCF 大数据与计算智能大赛已经落下帷幕，11个赛题由众多大神包揽奖项，其中有些还在赛后开源了比赛资料，现将目前已知的资料整理如下，供各位同学一起参考学习。若有意公开自己的比赛资料或者发现整理的列表中有遗漏的，可以联系我（金陵书生， netivs@qq.com ）补充修订。有问题也可在群里讨论。部分比赛PPT已经放到大数据比赛交流群，请在群文件里查看。
+
+1）O2O 赛题
+wepon、天音和charles提供的CCF O2O比赛第一名的全套代码和资料：
+https://github.com/wepe/O2O-Coupon-Usage-Forecast
+
+2）农产品价格预测赛题
+CCF农产品价格预测线上rank2代码，感谢 xing89qs 
+https://github.com/xing89qs/CCF_Product
+
+线上第5，决赛答辩逆袭为第1名的团队，只有代码没有任何说明。
+https://github.com/ziminghuang/futuredata-ccf2016
+
+复赛第35名的团队：
+https://github.com/wqlin/ccf-price-prediction
+
+3) 客户用电异常行为分析
+线上第4名的代码。这个队伍非常强悍，只提交很少的几次，而且最后3天都没提交，还一直前5名。同时，他们还是搜狗比赛的二等奖。
+https://github.com/AbnerYang/2016CCF-StateGrid
+
+
+4）搜狗的用户画像比赛
+线上第3名的TNT_000，同时也是上面客户用电异常行为分析比赛的二等奖。目前代码库是空的，但是我跟他们联系确认过了，元旦后他们会开源，因此先放上地址。
+https://github.com/AbnerYang/2016CCF-SouGou 
+
+线上第5名的The Right队伍的代码和决赛答辩PPT，而且他们还给出了数据下载地址，大赞。同一个团队的几个人分别开源了，链接如下：
+https://github.com/dhdsjy/2016_CCFsougou2
+https://github.com/dhdsjy/2016_CCFsougou
+https://github.com/prozhuchen/2016CCF-sougou
+https://github.com/coderSkyChen/2016CCF_BDCI_Sougou
+
+复赛第14名的团队：
+https://github.com/admu/CCF_sougou
+
+5）联通的用户轨迹赛题
+
+不确定名次：
+https://github.com/xuguanggen/2016CCF-unicom
+
+6）Human or Robot
+
+决赛第6名，很可惜的团队
+https://github.com/pickou/ccf_human_or_robot
