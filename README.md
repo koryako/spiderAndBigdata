@@ -247,3 +247,12 @@ https://github.com/xuguanggen/2016CCF-unicom
 
 决赛第6名，很可惜的团队
 https://github.com/pickou/ccf_human_or_robot
+
+
+pca 降维学些
+
+http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html
+
+http://blog.csdn.net/xiaojidan2011/article/details/11595869
+
+https://www.kaggle.com/arthurtok/principal-component-analysis-with-kmeans-visuals
